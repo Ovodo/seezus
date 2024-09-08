@@ -1,0 +1,11 @@
+[package]
+name = "Seezus"
+version = "0.0.0"
+
+[addresses]
+primitives = "0xCAFE"
+owner = '0xc03556bd82d64b147b985e1473601aa2df75ddfc398043f431b0460e2a05ada1'
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "d5de09a98f81a410d898d36e7cfc970e55b73e79" }
+AptosStdlib = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-stdlib", rev = "d5de09a98f81a410d898d36e7cfc970e55b73e79" }
