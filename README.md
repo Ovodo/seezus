@@ -50,7 +50,7 @@ The game is a simple implementation of Rock Paper Scissors between two players. 
 Make sure you have the following installed:
 
 - Node.js (v16.x.x or higher)
-- Yarn (or npm)
+- bun
 - Aptos CLI (for local blockchain and testing)
 - A Google account for authentication
 
@@ -60,10 +60,22 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/rock-paper-scissors-aptos.git
+   git clone https://github.com/ovodo/seezus.git
+   cd seezus
    cd smart_contract
    cd sources
    - Take a look at the seezus.move file
+
+
+
+
+## Running the dev
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/ovodo/seezus.git
+   cd seezus
+   `bun dev`
 
 
 
