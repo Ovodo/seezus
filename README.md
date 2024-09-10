@@ -1,6 +1,6 @@
 # Rock Paper Scissors on Aptos Blockchain
 
-This repository contains a decentralized Rock Paper Scissors game built on the Aptos blockchain using Solidity smart contracts. The front-end is powered by React, interacting with the blockchain via the Aptos SDK. 
+This repository contains a decentralized Rock Paper Scissors game built on the Aptos blockchain using move smart contracts. The front-end is powered by React, interacting with the blockchain via the Aptos SDK. 
 
 ## Table of Contents
 
